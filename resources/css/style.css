@@ -10,6 +10,8 @@ h1 {
     font-weight: normal;
     color: white;
     align-content: center;
+
+
    }
 
    h2 {
@@ -18,6 +20,15 @@ h1 {
        font-weight: normal;
        color: gray;
        align-content: center;
+
+       .C{
+         font-family: Verdana;
+         font-size: 21px;     f
+         font-weight: normal;
+         color: gray;
+         text-align: right;
+       }
+       
       }
    a {
        font-family: Verdana;
